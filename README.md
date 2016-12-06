@@ -74,4 +74,5 @@ Please use the [CKEditor Developer Center](https://dev.ckeditor.com/) to report 
 
 Copyright (c) 2003-2015, CKSource - Frederico Knabben. All rights reserved.
 
+Hello
 For licensing, see LICENSE.md or [http://ckeditor.com/license](http://ckeditor.com/license)
